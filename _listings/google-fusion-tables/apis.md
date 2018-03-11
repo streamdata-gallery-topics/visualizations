@@ -13,21 +13,11 @@ tags:
 - Embeddable
 - Database
 - Data
-created: "2018-02-26"
-modified: "2018-02-26"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/visualizations/master/_listings/google-fusion-tables/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: Google Fusion Tables API
-  description: Fusion Tables is an experimental data visualization web application
-    to gather, visualize, and share data tables
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-fusion-tables.jpg
-  humanURL: ""
-  baseURL: ://www.googleapis.com//fusiontables/v2
-  tags: Visualizations
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/visualizations/master/_listings/google-fusion-tables/tables-tableid-templates-templateid-put.md
+apis: []
 x-common:
 - type: x-documentation
   url: https://developers.google.com/fusiontables/docs/v2/reference/
